@@ -29,7 +29,7 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 1
 	+ attended class Tuesday and Thursday 
 - Week 2	
-	+ Introduced myself to Orlando 
+	+ I met Jedikayle on Thursday 
 - Week 3
 - Week 4
 - Week 5
