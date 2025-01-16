@@ -13,7 +13,6 @@ more than one point per category. There is a maximum of 5 points each week.
 + Attended class on Thursday
 + Volunteered at the front of class
 + Asked a question in class
-+ Introduced myself to someone I didn't know in class
 + Assessed in class
 + Hosted a Coderie (you must announce in Discord)
 + Attended a Coderie
@@ -29,7 +28,8 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 4 points
 - Week 1
 	+ attended class Tuesday and Thursday 
-- Week 2
+- Week 2	
+	+ Introduced myself to Orlando 
 - Week 3
 - Week 4
 - Week 5
