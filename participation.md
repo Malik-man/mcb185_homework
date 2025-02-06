@@ -27,11 +27,13 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Didn't come to class Thursday to save you from getting sick
 	+ Total 4 points
 - Week 1
-	+ attended class Tuesday and Thursday 
+	+ attended class Tuesday 
 - Week 2	
 	+ I met Jedikayle on Thursday 
 - Week 3
+	+ asked a question on the Discord
 - Week 4
+	+ attended class Thursday 
 - Week 5
 - Week 6
 - Week 7
