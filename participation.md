@@ -26,17 +26,34 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Introduced myself to Chris B
 	+ Didn't come to class Thursday to save you from getting sick
 	+ Total 4 points
+
 - Week 1
 	+ attended class Tuesday 
+	+ attended class Thursday 
 - Week 2	
-	+ I met Jedikayle on Thursday 
+	+ I met Jedikayle on Thursday
+	+ attended class Tuesday 
+	+ attended class Thursday  
 - Week 3
 	+ asked a question on the Discord
+	+ attended class Tuesday 
+	+ attended class Thursday  
 - Week 4
 	+ attended class Thursday 
 - Week 5
+	+ attended class Tuesday 
 - Week 6
+	+ attended class Tuesday
+	+ attended class Thursday 
 - Week 7
+	+ attended class Tuesday 
 - Week 8
+	+ attended class Tuesday 
 - Week 9
+	+ attended class Thursday 
+	+ attended class Tuesday 
+	+ asked a question on the Discord about entropy 
+	+ Did Homework with a classmate 
 - Week 10
+	+ attended class Tuesday 
+	+ attended class Thursday
