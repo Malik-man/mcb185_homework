@@ -42,6 +42,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ attended class Thursday 
 - Week 5
 	+ attended class Tuesday 
+	+ attended class Thursday
 - Week 6
 	+ attended class Tuesday
 	+ attended class Thursday 
@@ -49,6 +50,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ attended class Tuesday 
 - Week 8
 	+ attended class Tuesday 
+	+ Did Homework with a classmate 
 - Week 9
 	+ attended class Thursday 
 	+ attended class Tuesday 
@@ -57,3 +59,4 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 10
 	+ attended class Tuesday 
 	+ attended class Thursday
+	+ Did Homework with a classmate 
