@@ -29,13 +29,14 @@ more than one point per category. There is a maximum of 5 points each week.
 
 - Week 1
 	+ attended class Tuesday 
-	+ attended class Thursday 
+	+ attended class Thursday
+	+ Introduced myself to Zucy  
 - Week 2	
 	+ I met Jedikayle on Thursday
 	+ attended class Tuesday 
 	+ attended class Thursday  
 - Week 3
-	+ asked a question on the Discord
+	+ asked a question on the Discord about functions 
 	+ attended class Tuesday 
 	+ attended class Thursday  
 - Week 4
@@ -58,5 +59,4 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Did Homework with a classmate 
 - Week 10
 	+ attended class Tuesday 
-	+ attended class Thursday
 	+ Did Homework with a classmate 
